@@ -1,0 +1,105 @@
+,title
+0,Not able to connect to ADLS with External HMS
+1,Unable to access AzureDatabricks workspace
+2,Not able to Write to Container using Pyspark.write method
+3,Notebook execution failure
+4,Databricks views are being recreated with all column names in lowercase.
+5,Data loss with applyInPandas
+6,Failed Databricks notebooks
+7,Cluster terminated.Reason:Self Bootstrap Failure
+8,Recover databricks workspace
+9,passwordless SFTP connection
+10,"Runtime Error, cannot open the connection"
+11, Notebook showing function does not exist
+12,2205200030001371
+13,PowerBi Failing To Connect To Databricks Table and Fetch Data
+14,SQL joins gives wrong result
+15,On some occasions the count file is having more numbers than the data file
+16,2205190030002256 
+17,2205090040004711
+18,Not able to create cluster pool with DBR Light 2.4 Extended
+19,Conuming avro messages from kafka makes problem.
+20,Databricks:  When clicking on completed jobs get HTTP ERROR 403
+21,Delta Lake Change Feed Data error on job restart
+22,2205130040002413
+23,Cluster Terminating
+24,Failed to connect Azure SQL Server using ActiveDirectoryIntegrated in Databricks
+25,[ARR][2205190040006377 ][Procter and Gamble]the spark driver has stopped unexpectedly and is restarting. your notebook will be automatically reattached.
+26,[ARR][2204260040005094 ][Geico]Unable to set log destiation to dbfs mnt
+27,[ARR][2204260040005094 ][Geico]Unable to set log destiation to dbfs mnt
+28,958145594491036 - 10280a44-7716-4c2a-8238-1b1796d4fde3 - 2205190040004859
+29,Cluster terminated.Reason:Self Bootstrap Failure
+30,2205130040002413
+31,Not able to Write to Container using Pyspark.write method
+32,2205160030000400
+33,MOVE dag is failing
+34,Databricks SQL UI Issue
+35,ARR | Some libraries are failing when cluster restarts | 2205170040006180
+36,ARR | Some libraries are failing when cluster restarts | 2205170040006180
+37,2205180030000254 
+38,Prod & Dev DBKS Job Failures due to Azure VM Extension Outage for Bootstrap Script Execution
+39,whitelist
+40,Job performance
+41,Job performance
+42,The spark driver has stopped unexpectedly and seems like a memory issue
+43,Customer is unable to write streaming data to Event Hub
+44,Notebook cell hanging with python
+45,Not able to mount storage account
+46,[ARR][2205130040006196][AT & T]issue when writing huge number of records
+47,Unable to write from Databricks into Synapse
+48,gar for 
+49, Spark Structured Streaming Job Not Running
+50,2205100040004471
+51,Job were running slow and few nodes getting skipped
+52,Job aborted
+53,2205100040004471
+54,ACL permissions
+55,2205100040004471
+56,Could not find ADLS Gen2 Token
+57,2205100050002215
+58,2205110040001203
+59,File read from Container is taking very long time
+60,"I got stuck to an error in data bricks , the error is ' Command result size exceeds limit: Exceeded 20971520 bytes (current = 20972463)'"
+61,"I got stuck to an error in data bricks , the error is ' Command result size exceeds limit: Exceeded 20971520 bytes (current = 20972463)'"
+62,Azure Databricks Vnet Connectivity
+63,[ARR] [Sev C] SR-2205080030000417-Slow performance
+64,2205110040001203
+65,SQL query works in DBR 9.1 but fails in DBR 10.4
+66,File read from Container is taking very long time
+67,MOVE dag is failing
+68,Dip and spike in incoming messages at 12AM UTC
+69,3337075389283370 - 6b64b59f-432d-401e-b552-d855f1e1d2e0 - 2204060040002674
+70,photon clusters giving incorrect results.
+71,Could not find ADLS Gen2 Token
+72,Trying to get the size of folders in dbfs
+73,2204270030000882
+74,errors running deployment script in databricks
+75,errors running deployment script in databricks
+76,Error while migrating database from hive to glue
+77,unable to create Db and tables
+78,Databricks:  When clicking on completed jobs get HTTP ERROR 403
+79,Unable to connect to PostgreSQL remote db
+80,Unable to access AzureDatabricks workspace
+81,Unable to access AzureDatabricks workspace
+82,The VMs are not getting deallocated and costing to us
+83,Connection pool shut down
+84,Pycrypto installation failed using init script
+85,Unable to read table using spark sql
+86,2205060040000451
+87,JDBC query connection issue
+88,2205050030000380
+89,Databricks Issue
+90,Job Failure
+91,Access Azure Synapse from Azure Databricks with SQLDW spark connector
+92,Job failure
+93,Cluster lost at least one node. Reason: Communication lost
+94,2204210060006686
+95,Error connecting to Trino JDBC
+96,changing default timestamp for hive tables and databricks workspace to CET
+97,changing default timestamp for hive tables and databricks workspace to CET
+98,Random issue running a query in Databricks
+99,Databricks - Cluster Upgrade with gdal
+100,SQL access
+101,2205020030000861
+102,Unable to create empty delta tables in the ADLS stoarage
+103, Unable to create empty delta tables in the ADLS stoarage
